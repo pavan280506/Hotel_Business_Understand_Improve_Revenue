@@ -25,7 +25,7 @@ This module focuses on preparing the analytical foundation for the project.
 
 ---
 
-### Module 2: Occupancy & Revenue Metrics
+### Module 2.1: Occupancy & Revenue Metrics
 This module analyzes hotel performance using key revenue and occupancy KPIs.
 - Calculated Occupancy %, Average Daily Rate (ADR), and Revenue per Available Room (RevPAR) using DAX
 - Visualized revenue and occupancy trends over time
@@ -35,7 +35,7 @@ This module analyzes hotel performance using key revenue and occupancy KPIs.
 
 ---
 
-### Module 3: Guest Analysis
+### Module 2.2: Guest Analysis
 This planned module focuses on understanding guest behavior and demographics.
 - Analysis of guest types and booking characteristics
 - Visuals for nationality and booking source
@@ -43,7 +43,7 @@ This planned module focuses on understanding guest behavior and demographics.
   
 ---
 
-### Module 4: Forecasting and Cancellation Trends
+### Module 3: Forecasting and Cancellation Trends
 This module aims to extend analysis into predictive insights.
 - Forecasting future occupancy using historical trends
 - Cancellation rate and booking lead-time analysis
@@ -51,11 +51,11 @@ This module aims to extend analysis into predictive insights.
 
 ---
 
-### Module 5: Revenue Strategy Dashboard
+### Module 4: Revenue Strategy Dashboard
 This final module focuses on decision support for hotel management.
 - Identification of upsell opportunities
 - Seasonal and room-type based pricing recommendations
-- Strategic dashboard for general managers and revenue teams :contentReference[oaicite:6]{index=6}
+- Strategic dashboard for general managers and revenue teams
 
 ---
 
@@ -63,7 +63,7 @@ This final module focuses on decision support for hotel management.
 - **Data Sources:** Booking engines, hotel CRM, channel managers
 - **Transformation Layer:** Power Query
 - **Modeling Layer:** Guest, Booking, Room, Date
-- **Visualization Layer:** Occupancy, Revenue, Guest Analysis dashboards :contentReference[oaicite:7]{index=7}
+- **Visualization Layer:** Occupancy, Revenue, Guest Analysis dashboards
 
 ---
 
